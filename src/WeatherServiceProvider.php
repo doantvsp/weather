@@ -1,5 +1,5 @@
 <?php
-namespace doantv\weather;
+namespace doantv\weather\src;
 
 use Illuminate\Support\ServiceProvider;
 
