@@ -1,0 +1,11 @@
+{
+    "name": "doantv/weather",
+    "description": "get wearther",
+    "authors": [
+        {
+            "name": "DoanTV",
+            "email": "doantv@hybrid-technologies.vn"
+        }
+    ],
+    "require": {}
+}
