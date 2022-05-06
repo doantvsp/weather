@@ -11,6 +11,8 @@ class WeatherServiceProvider extends ServiceProvider {
     }
     public function register()
     {
-
+        $this->app->bind('calculator', function($app) {
+            return new Calculator();
+        });
     }
 }
