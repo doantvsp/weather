@@ -7,5 +7,10 @@
             "email": "doantv@hybrid-technologies.vn"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
 }
